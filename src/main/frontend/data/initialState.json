@@ -1,0 +1,20 @@
+{
+  "acclaim": [
+    {
+      "id": "8658c1d0-9eda-4a90-95e1-8001e8eb6036",
+      "acclaim": "Ocean Blue",
+      "criticism": "Cant stand",
+      "timestamp": "Sat Mar 12 2016 16:12:09 GMT-0800 (PST)"
+    },
+    {
+      "id": "8658c1d0-9eda-4a90-95e1-8001e8eb6035",
+      "acclaim": "Ocean Red",
+      "criticism": "Cant stand",
+      "timestamp": "Sat Mar 12 2016 16:12:09 GMT-0800 (PST)"
+    }
+  ],"rate": [
+	{
+		"rate":5
+	}
+  ]
+}
